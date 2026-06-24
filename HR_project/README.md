@@ -57,9 +57,25 @@ Power BI Dashboard
 Full reasoning for each decision is documented inline in the SQL scripts.
 
 ---
-## 
-### Employee Overview Dashboard
-![Employee Overview](HR_Analytics/screenshots/01_Overview.png)
+## Dashboard Screenshots
+
+### Overview
+![Overview](04_Screenshots/01_Overview.png)
+
+### Attrition Analysis
+![Attrition Analysis](04_Screenshots/02_Attrition.png)
+
+### Payroll Analysis
+![Payroll Analysis](04_Screenshots/03_Payroll.png)
+
+### Attendance Analysis
+![Attendance Analysis](04_Screenshots/04_Attendance.png)
+
+### Promotion Fairness
+![Promotion Fairness](04_Screenshots/05_Promotion.png)
+
+### Executive Summary
+![Executive Summary](04_Screenshots/06_Executive_Summary.png)
 
 ## Key Findings
 
