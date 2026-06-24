@@ -75,7 +75,7 @@ Full reasoning for each decision is documented inline in the SQL scripts.
 ![Promotion Fairness](03_screenshot/05_Promotion.png)
 
 ### Executive Summary
-![Executive Summary](03_screenshot/06_Executive_Summary.png)
+![Executive Summary](03_screenshot/06_Executive Summary.png)
 
 ## Key Findings
 
