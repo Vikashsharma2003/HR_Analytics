@@ -160,5 +160,5 @@ Includes a dedicated Report/Summary page consolidating all findings, recommendat
 01_Raw_Data            — CSV FILE 
 02_SQL File            — Raw, Clean and Business layer Sql query
 03_screenshot          —images of dashboards
-04_POWER_BI_Report      — Power bi dashboards and executive summary
+04_POWER_BI_Report     — Power bi dashboards and executive summary
 ```
