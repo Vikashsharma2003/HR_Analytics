@@ -59,7 +59,7 @@ Full reasoning for each decision is documented inline in the SQL scripts.
 ---
 ## 
 ### Employee Overview Dashboard
-![Employee Overview](screenshot/01_Overview.png)
+![Employee Overview](HR_Analytics/screenshots/01_Overview.png)
 
 ## Key Findings
 
