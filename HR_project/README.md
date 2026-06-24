@@ -57,6 +57,9 @@ Power BI Dashboard
 Full reasoning for each decision is documented inline in the SQL scripts.
 
 ---
+## 
+### Employee Overview Dashboard
+![Employee Overview](screenshot/01_Overview.png)
 
 ## Key Findings
 
